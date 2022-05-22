@@ -60,7 +60,7 @@ df16 =  df10.loc[(df10['name'] == 'Nadav') | (df10['age'] == 6)]
 #For question 17
 df17 = df10.loc[(df10['age'] == 21) | (df10['age'] == 23)]
 
-#For question 18*
+#For question 18
 df18 = df10.loc[(df10['age'] >= 21) & (df10['age'] <= 23)]
 
 
@@ -68,7 +68,7 @@ df18 = df10.loc[(df10['age'] >= 21) & (df10['age'] <= 23)]
 df19 = df10.loc[(df10['name'] != 'Noa') & (df10['gender'] == 'F')]
 
 
-#For question 20*
+#For question 20
 df20 = df10.loc[(df10['age'] != 15) & (df10['age'] != 20)]
 
 
@@ -83,10 +83,16 @@ df22 = df10.loc[(df10['age'] == 21) & (df10['gender'] == 'M')]
 df23 = df10.loc[(df10['name'] == 'Tal') & (df10['gender'] == 'M')]
 
 
-#For question 24*
+#For question 24
 df24 = df10.loc[(df10['age'] >= 6) & (df10['age'] <= 20) & (df10['gender'] == 'F')]
 
 #For question 25
 df25 = df10.loc[(df10['birth_date'].isnull())]
 
+#For question 26
 
+df26 = df10.loc[(df10['name'] == 'Tal') | (df10['name'] == 'Noa') | (df10['name'] == 'Shlomi') &  (df10['age'] >= 50) & (df10['gender'] == 'F')]
+
+#For question 27
+
+df27 = df10.loc[(df10['age'] == 5) & (df10['gender'] == 'M') & (df10['name'] == 'Ido') | (df10['gender'] == 'F') & (df10['name'] == 'Shani') | (df10['name'] == 'Inbar') | (df10['name'] == 'Talia')]
