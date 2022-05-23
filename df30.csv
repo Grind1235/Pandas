@@ -1,0 +1,4096 @@
+,name,gender,birth_date,age,details,age7,All
+0,Ryan,M,1998-12-20 00:00:00,23.0,Ryan M,age,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+1,Joanna,F,2005-05-25 00:00:00,16.0,Joanna F,7,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+2,Bob,M,1990-01-03 00:00:00,32.0,Bob M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+3,Maya,F,1995-10-29 00:00:00,26.0,Maya F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+4,Ido,M,1997-08-08 00:00:00,24.0,Ido M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+5,Noa,F,2003-11-13 00:00:00,18.0,Noa F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+6,Josh,M,2020-06-06 00:00:00,1.0,Josh M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+7,Adi,F,,6.0,Adi F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+8,Almog,M,2005-09-02 00:00:00,16.0,Almog M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+9,Paz,F,2001-12-10 00:00:00,20.0,Paz F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+10,Yanay,M,1973-08-04 00:00:00,48.0,Yanay M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+11,Ayala,F,2002-05-05 00:00:00,19.0,Ayala F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+12,David,M,2005-05-25 00:00:00,16.0,David M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+13,Kineret,F,2003-09-28 00:00:00,18.0,Kineret F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+14,Shlomi,M,2000-01-20 00:00:00,22.0,Shlomi M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+15,Monica,F,2005-05-25 00:00:00,16.0,Monica F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+16,Nadav,M,1996-03-04 00:00:00,28.0,Nadav M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+17,Stav,F,2006-02-17 00:00:00,16.0,Stav F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+18,Tomer,M,2008-12-21 00:00:00,13.0,Tomer M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+19,Noa,F,1999-06-30 00:00:00,22.0,Noa F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+20,Ori,M,2000-12-16 00:00:00,21.0,Ori M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+21,Maya,F,2000-12-16 00:00:00,21.0,Maya F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+22,Amitai,M,1998-12-20 00:00:00,23.0,Amitai M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+23,Tal,F,1998-12-05 00:00:00,23.0,Tal F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+24,Itzik,M,1927-01-27 00:00:00,95.0,Itzik M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+25,Rivka,F,1926-12-13 00:00:00,95.0,Rivka F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+26,Moshe,M,1926-06-06 00:00:00,95.0,Moshe M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+27,Lea,F,1927-03-30 00:00:00,95.0,Lea F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+28,Almog,M,1927-03-24 00:00:00,95.0,Almog M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+29,Lea,F,1992-03-02 00:00:00,30.0,Lea F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+30,Ariel,M,1986-10-15 00:00:00,30.0,Ariel M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+31,May,F,1999-10-15 00:00:00,22.0,May F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+32,Ido,M,2000-07-11 00:00:00,21.0,Ido M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+33,Naama,F,2000-28-02,22.0,Naama F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+34,Itai,M,1999-28-02,23.0,Itai M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+35,Ido,M,2017-01-01 00:00:00,5.0,Ido M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+36,Ido,M,2017-02-02 00:00:00,5.0,Ido M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+37,Shani,F,1998-10-17 00:00:00,23.0,Shani F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+38,Inbar,F,1998-09-15 00:00:00,23.0,Inbar F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+39,Talia,F,1998-10-15 00:00:00,23.0,Talia F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+40,Shani,F,1999-10-15 00:00:00,22.0,Shani F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+41,Inbar,F,1999-10-23 00:00:00,22.0,Inbar F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+42,Ido,F,2006-02-17 00:00:00,16.0,Ido F,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+43,Ido,M,2004-02-17 00:00:00,16.0,Ido M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"
+44,Ido,M,1998-12-05 00:00:00,23.0,Ido M,,"0        Ryan M
+1      Joanna F
+2         Bob M
+3        Maya F
+4         Ido M
+5         Noa F
+6        Josh M
+7         Adi F
+8       Almog M
+9         Paz F
+10      Yanay M
+11      Ayala F
+12      David M
+13    Kineret F
+14     Shlomi M
+15     Monica F
+16      Nadav M
+17       Stav F
+18      Tomer M
+19        Noa F
+20        Ori M
+21       Maya F
+22     Amitai M
+23        Tal F
+24      Itzik M
+25      Rivka F
+26      Moshe M
+27        Lea F
+28      Almog M
+29        Lea F
+30      Ariel M
+31        May F
+32        Ido M
+33      Naama F
+34       Itai M
+35        Ido M
+36        Ido M
+37      Shani F
+38      Inbar F
+39      Talia F
+40      Shani F
+41      Inbar F
+42        Ido F
+43        Ido M
+44        Ido M
+Name: details, dtype: object0     age
+1       7
+2       0
+3       0
+4       0
+5       0
+6       0
+7       0
+8       0
+9       0
+10      0
+11      0
+12      0
+13      0
+14      0
+15      0
+16      0
+17      0
+18      0
+19      0
+20      0
+21      0
+22      0
+23      0
+24      0
+25      0
+26      0
+27      0
+28      0
+29      0
+30      0
+31      0
+32      0
+33      0
+34      0
+35      0
+36      0
+37      0
+38      0
+39      0
+40      0
+41      0
+42      0
+43      0
+44      0
+Name: age7, dtype: object"

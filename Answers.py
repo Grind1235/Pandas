@@ -69,8 +69,7 @@ df19 = df10.loc[(df10['name'] != 'Noa') & (df10['gender'] == 'F')]
 
 
 #For question 20
-df20 = df10.loc[(df10['age'] != 15) & (df10['age'] != 20)]
-
+df20 = df10.loc[(df10['gender'] != 'M') & (df10['age'] != 15) & (df10['age'] != 20)]
 
 #For question 21
 df21 = df10.loc[(df10['age'] != 30) & (df10['age'] != 35)]
@@ -96,3 +95,31 @@ df26 = df10.loc[(df10['name'] == 'Tal') | (df10['name'] == 'Noa') | (df10['name'
 #For question 27
 
 df27 = df10.loc[(df10['age'] == 5) & (df10['gender'] == 'M') & (df10['name'] == 'Ido') | (df10['gender'] == 'F') & (df10['name'] == 'Shani') | (df10['name'] == 'Inbar') | (df10['name'] == 'Talia')]
+
+#For question 28
+
+df28 = df10
+df28['details'] = df28['name'] + " " + df28['gender']
+
+
+#For question 29
+df29 = df10
+df29['age7'] = pd.Series(['age' , 7])
+df29 = df29.fillna(0)
+
+
+#For question 30
+df30 = df10
+df30['All'] =  str(df28['details']) + str(df29['age7'])
+
+
+
+
+#For question 31
+df31 = df10.loc[(df10['age'] == 5) & (df10['gender'] == 'M') & (df10['name'] == 'Ido') | (df10['gender'] == 'F') & (df10['name'] == 'Shani') | (df10['name'] == 'Inbar') | (df10['name'] == 'Talia')]
+#df31.to_csv('df27.csv')
+
+
+#For question 32
+df32 = df30
+#df32.to_csv('df30.csv')
