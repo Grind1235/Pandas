@@ -48,6 +48,7 @@ df12 = df10.loc[(df10['name'] == 'Tal')]
 #For question 13
 df13 = df10.loc[(df10['name'] == 'Tal')]
 
+
 #For question 14
 df14 = df10.loc[(df10['age'] == 22)]
 
@@ -69,7 +70,7 @@ df19 = df10.loc[(df10['name'] != 'Noa') & (df10['gender'] == 'F')]
 
 
 #For question 20
-df20 = df10.loc[(df10['gender'] != 'M') & (df10['age'] != 15) & (df10['age'] != 20)]
+df20 = df10.loc[(df10['gender'] != 'M') & (df10['age'] < 15) & (df10['age'] > 20)]
 
 #For question 21
 df21 = df10.loc[(df10['age'] != 30) & (df10['age'] != 35)]
